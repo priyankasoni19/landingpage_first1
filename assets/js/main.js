@@ -1,0 +1,1 @@
+document.querySelectorAll('h1')[1].style.background = 'green'
