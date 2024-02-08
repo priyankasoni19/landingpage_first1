@@ -1,0 +1,22 @@
+:root {
+    --bg_color1: #bb55ff;
+    --bg_color1: #ffbbc8;
+    --bg_color1: #e5e6ec;
+    --bg_color1: #ffabad;
+    --bg_color1: #bb55ff;
+}
+
+body {
+    background: linear-gradient(#eba1b0, #eeadb9);
+    margin: 0;
+}
+
+.box {
+
+    background: url(../images/happy-tourist-sitting-floor-while-holding-map_23-2148521270.jpg);
+    background-size: contain;
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
